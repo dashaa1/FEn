@@ -1,0 +1,76 @@
+body{
+    color: rgb(201, 157, 185);
+    background: rgb(37, 27, 70)
+} 
+/* text-align: left; */
+h1{
+    text-align: center;
+}
+.text-box{
+    font-size: 16px;
+    background-color: rgb(134, 64, 168);
+}
+h3{
+    text-align: center;
+}
+.text-box.center1{
+    text-align: center;
+}
+.img-box.center1{
+    text-align: center;
+}
+h2{
+    text-align: right;
+}
+.text-box.right1{
+    text-align: right;
+}
+.img-box.left1{
+    text-align: left;
+}
+h3{
+    text-align: center;
+}
+.text-box.left2{
+    text-align: left;
+}
+.img-box.right2{
+    text-align: right;
+}
+h2{
+    text-align: right;
+}
+.text-box.left3{
+    text-align: left;
+}
+.img-box.left3{
+    text-align: left;
+}
+h3{
+    text-align: left;
+}
+.text-box.center3{
+    text-align: center;
+}
+.img-box.center2{
+    text-align: center;
+}
+h2{
+    text-align: right;
+}
+.text-box.right3{
+    text-align: right;
+}
+.img-box.right3{
+    text-align: right;
+}
+h3{
+    text-align: center;
+}
+.text-box.left4{
+    text-align: left;
+}
+.img-box.left4{
+    text-align: left;
+}
+
